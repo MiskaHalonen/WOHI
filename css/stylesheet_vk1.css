@@ -2,10 +2,6 @@
   list-style: none;
 }
 
-li>a:link, li>a:visited{
-  color: greenyellow;
-}
-
 #div2{
  text-align: center;
  list-style-position: inside;
@@ -19,11 +15,7 @@ ul{
   text-align: right;
 
 }
-body{
-  background-color: #888888;
-  text-shadow: 2px 2px 2px greenyellow;
 
-}
 table{
   margin-left: auto;
   margin-right: auto;
