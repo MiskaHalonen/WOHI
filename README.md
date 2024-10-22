@@ -1,2 +1,2 @@
-WEB programming I   @MiskaHalonen
+WEB programming I   
 contains course assingments
