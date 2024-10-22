@@ -1,2 +1,2 @@
-WEB programming I   @ MiskaHalonen
+WEB programming I 2024  @MiskaHalonen
 contains course assingments
